@@ -1,0 +1,3 @@
+export const CHANGE_SIDE = 'CHANGE_SIDE';
+export const SET_AUTHORIZATION = 'SET_AUTHORIZATION';
+export const SET_USER_INFO = 'SET_USER_INFO';
